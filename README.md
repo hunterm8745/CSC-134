@@ -1,2 +1,3 @@
-# CSC-134
-CSC-134 Repository
+# CSC 134 Repository
+Created for M1LAB1
+Hunter
